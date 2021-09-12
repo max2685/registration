@@ -1,0 +1,1 @@
+Mail server can be configured with the help of: https://github.com/maildev/maildev
